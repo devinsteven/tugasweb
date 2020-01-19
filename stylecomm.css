@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+    
+}
+
+.jumbotron{
+    background-image: url(Images/bg2.png);
+    background-size:cover;
+    height :600px;
+}
+
+.jumbotron .display-4{
+    font-family:"century gothic";
+    margin-top: 150px; 
+    margin-left: 650px;
+}
+
+.h2{
+    font-family:"century gothic";
+    
+}
+
+.jumbotron .lead{
+    font-family:"corbel";
+    margin-left: 650px;
+}
+
+.jumbotron .my-4{
+    margin-left: 650px;
+    width: 800px;
+}
+
+.jumbotron .btn{
+    margin-left: 650px;
+}
+
+.card{
+    margin-top: -100px;
+    margin-left: 60px;
+}
+
+.card-title{
+    font-family:"kaiti";
+}
+
+hr{
+    width: 100px;
+    border-top: 3px solid #eaeaea;
+}
